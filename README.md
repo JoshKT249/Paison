@@ -1,2 +1,2 @@
 # Paison
-CS50 Introduction to Programming Course for Gil &amp; David
+CS50 Introduction to Programming Course for Gil & David
